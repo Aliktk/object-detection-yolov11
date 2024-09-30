@@ -2,6 +2,8 @@
 
 YOLO11 is the next-generation computer vision model by Ultralytics, offering cutting-edge advancements in accuracy, speed, and efficiency for a range of tasks like object detection, instance segmentation, pose estimation, and more!
 
+![1727698603839](image/README/1727698603839.png)
+
 This repository provides an implementation of the YOLO11 object detection model with simple inference examples for images and videos.
 
 ## Table of Contents
